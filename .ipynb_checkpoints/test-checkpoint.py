@@ -2,7 +2,6 @@ import demo
 print("In test file")
 print(__name__)
 
-
 '''
 When we import the demo module, if there is no name condition written in the demo file
 then just because of importing that file as module, we see the print statements getting executed
